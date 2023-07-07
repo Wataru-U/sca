@@ -1,6 +1,9 @@
-float GraphLength = 30;
-float killDiff = 120;
-float maxDiff = 300;
+// segment length
+float GraphLength = 20;
+// delete distance
+float killDiff = 40;
+// search distsnce
+float maxDiff = 60;
 spaceColonization sc;
 
 void setup()
